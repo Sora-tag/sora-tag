@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;%20D%C3%A9veloppeur+%7C+Pentester+en+devenir;%20Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;%20%20%20D%C3%A9veloppeur+%7C+Pentester+en+devenir;%20%20%20Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sora-tag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sora-tag&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sora-tag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora-tag&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
 </div>
 
 ---
@@ -35,8 +35,8 @@
       <a href="LIEN_VERS_LE_PROJET_ATMOSPHAIR">Voir le code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Raiden </h3>
-      <p>Un bot Discord conçu pour géré un serveur. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
+      <h3>🤖 Kaori</h3>
+      <p>Un bot Discord conçu pour avoir une vraie personnalité. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
       <a href="LIEN_VERS_LE_PROJET_KAORI">Voir le code</a>
     </td>
   </tr>
@@ -58,7 +58,6 @@
   <samp><em>"Tout commence quelque part. Mais ça finit rarement petit."</em></samp>
 </div>
 
-
-<div align="center">
+<!-- Animation Snake --><div align="center">
   <img src="https://raw.githubusercontent.com/VOTRE_USERNAME_GITHUB/VOTRE_USERNAME_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
