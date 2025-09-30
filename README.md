@@ -1,76 +1,65 @@
-# 👨‍💻 Sora — Développeur en progression
-
-> 🧠 Passionné par le code, l’OSINT et la cybersécurité. J’apprends, je construis, j’explore.
-
-Bienvenue sur mon profil GitHub ! Je suis un développeur autodidacte, en train de forger mes compétences dans le **développement web**, la **programmation de bots Discord** et la **cybersécurité offensive**.  
-Ici, tu trouveras surtout des projets d’apprentissage, des outils simples que je crée, et parfois des idées un peu plus sombres. 🕶️
-
----
-
-<h2 align="left">Hi 👋! My name is Sora, and I'm a developer in progress, from France</h2>
-
-###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;D%C3%A9veloppeur+%7C+Pentester+en+devenir;Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
 </div>
 
-###
+<p align="center">
+  <em>Développeur autodidacte, je forge mes compétences en <strong>développement web</strong>, <strong>bots Discord</strong> et <strong>cybersécurité offensive</strong>.  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+  Ici, vous trouverez des projets d'apprentissage, des outils que je construis, et quelques explorations dans les recoins du numérique. 🕶️</em>
+</p>
 
-###
-
-## 🛠️ Stack technique
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ---
 
-## ⚙️ Projets en cours
+### <samp>Stack Technique & Outils</samp>
 
-- 🌤️ **Atmosphair** — Site météo en HTML/CSS/JS.
-- 🤖 **Raiden** — Bot Discord en JS 
-
----
-
-## 🎯 Objectifs actuels
-
-- 📚 Renforcer mes bases en **JavaScript**
-- ⚙️ Approfondir l’utilisation de **Discord.js**
-- 🔐 Comprendre les fondamentaux du **pentest** et des **CTF**
-- 🧪 Construire un **portfolio solide** pour montrer mes projets
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,html,css,discordjs,vscode,git,linux&perline=4" />
+  </a>
+</p>
 
 ---
 
-> 🗝️ *"Tout commence quelque part. Mais ça finit rarement petit."*
+### <samp>Projets Actifs</samp>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌤️ Atmosphair</h3>
+      <p>Un service météo simple et efficace développé en HTML, CSS et JavaScript pur. Un excellent projet pour maîtriser les appels d'API et la manipulation du DOM.</p>
+      <a href="LIEN_VERS_LE_PROJET_ATMOSPHAIR">Voir le code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Kaori</h3>
+      <p>Un bot Discord conçu pour avoir une vraie personnalité. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
+      <a href="LIEN_VERS_LE_PROJET_KAORI">Voir le code</a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### <samp>Roadmap Actuelle</samp>
+
+- [ ] **JavaScript :** Consolider les concepts avancés (asynchrone, prototypes ).
+- [ ] **Discord.js :** Implémenter une architecture de commandes plus robuste.
+- [ ] **Cybersécurité :** Réussir mes premiers challenges sur Root-Me / Hack The Box.
+- [ ] **Portfolio :** Déployer une version live de mes projets phares.
+
+  
+
+
+<div align="center">
+  <samp><em>"Tout commence quelque part. Mais ça finit rarement petit."</em></samp>
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/VOTRE_USERNAME_GITHUB/VOTRE_USERNAME_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
