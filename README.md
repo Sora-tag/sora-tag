@@ -10,8 +10,8 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME_GITHUB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME_GITHUB&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sora-tag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sora-tag&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
 </div>
 
 ---
