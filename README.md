@@ -1,7 +1,8 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00B8A9&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Sora;%20Développeur+%7C+Pentester+en+devenir;|Passionné+d'OSINT+%26+Cybersécurité" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00B8A9&center=true&vCenter=true&width=600&lines=Difficile+n%27est+pas+impossible"
+    alt="Typing SVG"
+  />
 </div>
 
 <p align="center">
@@ -37,7 +38,7 @@
       <a href="https://github.com/Sora-tag/Atmosphair">Voir le code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Kaori</h3>
+      <h3>🤖 Raiden</h3>
       <p>Un bot Discord conçu pour avoir une vraie personnalité. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
       <a href="https://github.com/Sora-tag/Kaori">Voir le code</a>
     </td>
@@ -48,7 +49,7 @@
 
 ### <samp>Roadmap Actuelle</samp>
 
-- [ ] **JavaScript :** Consolider les concepts avancés (asynchrone, prototypes ).
+- [ ] **JavaScript :** Consolider les concepts avancés (asynchrone, prototypes).
 - [ ] **Discord.js :** Implémenter une architecture de commandes plus robuste.
 - [ ] **Cybersécurité :** Réussir mes premiers challenges sur Root-Me / Hack The Box.
 - [ ] **Portfolio :** Déployer une version live de mes projets phares.
@@ -57,7 +58,3 @@
   <samp><em>"Tout commence quelque part. Mais ça finit rarement petit."</em></samp>
 </div>
 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Sora-tag/Sora-tag/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
