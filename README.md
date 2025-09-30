@@ -1,6 +1,5 @@
-
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;D%C3%A9veloppeur+%7C+Pentester+en+devenir;Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;%20D%C3%A9veloppeur+%7C+Pentester+en+devenir;%20Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -36,8 +35,8 @@
       <a href="LIEN_VERS_LE_PROJET_ATMOSPHAIR">Voir le code</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 Kaori</h3>
-      <p>Un bot Discord conçu pour avoir une vraie personnalité. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
+      <h3>🤖 Raiden </h3>
+      <p>Un bot Discord conçu pour géré un serveur. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
       <a href="LIEN_VERS_LE_PROJET_KAORI">Voir le code</a>
     </td>
   </tr>
