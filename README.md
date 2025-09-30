@@ -1,5 +1,7 @@
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00B8A9&center=true&vCenter=true&width=435&lines=Salut%2C+je+suis+Sora;%20%20%20D%C3%A9veloppeur+%7C+Pentester+en+devenir;%20%20%20Passionn%C3%A9+d'OSINT+%26+de+Cybers%C3%A9curit%C3%A9" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=00B8A9&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Sora;%20Développeur+%7C+Pentester+en+devenir;|Passionné+d'OSINT+%26+Cybersécurité" alt="Typing SVG" />
+  </a>
 </div>
 
 <p align="center">
@@ -32,12 +34,12 @@
     <td width="50%" valign="top">
       <h3>🌤️ Atmosphair</h3>
       <p>Un service météo simple et efficace développé en HTML, CSS et JavaScript pur. Un excellent projet pour maîtriser les appels d'API et la manipulation du DOM.</p>
-      <a href="LIEN_VERS_LE_PROJET_ATMOSPHAIR">Voir le code</a>
+      <a href="https://github.com/Sora-tag/Atmosphair">Voir le code</a>
     </td>
     <td width="50%" valign="top">
       <h3>🤖 Kaori</h3>
       <p>Un bot Discord conçu pour avoir une vraie personnalité. L'objectif est d'explorer les interactions complexes et la gestion d'état avec Discord.js.</p>
-      <a href="LIEN_VERS_LE_PROJET_KAORI">Voir le code</a>
+      <a href="https://github.com/Sora-tag/Kaori">Voir le code</a>
     </td>
   </tr>
 </table>
@@ -51,13 +53,11 @@
 - [ ] **Cybersécurité :** Réussir mes premiers challenges sur Root-Me / Hack The Box.
 - [ ] **Portfolio :** Déployer une version live de mes projets phares.
 
-  
-
-
 <div align="center">
   <samp><em>"Tout commence quelque part. Mais ça finit rarement petit."</em></samp>
 </div>
 
-<!-- Animation Snake --><div align="center">
-  <img src="https://raw.githubusercontent.com/VOTRE_USERNAME_GITHUB/VOTRE_USERNAME_GITHUB/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sora-tag/Sora-tag/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
