@@ -11,13 +11,6 @@
   Ici, vous trouverez des projets d'apprentissage, des outils que je construis, et quelques explorations dans les recoins du numérique. 🕶️</em>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sora-tag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27" height="140" alt="Statistiques GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sora-tag&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1A1B27" height="140" alt="Langages les plus utilisés"/>
-</div>
-
----
-
 ### <samp>Stack Technique & Outils</samp>
 
 <p align="center">
